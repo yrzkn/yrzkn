@@ -5,15 +5,15 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/yrzkn/Gif.Death-note-read-me/blob/main/tenor.gif">
 
 ### - Learning :
- Java
- Russian
+### Java
+### Russian
 
 </br>
 
 ### - Hobbies : 
- play soccer
- CS2
- GYM
+### play soccer
+### CS2
+### GYM
 </br>
 </br>
 </br>
