@@ -1,9 +1,7 @@
 # About ME 💬 :
 
 ### - I'm 16 years  Software engineering student & back-end ツ from Brazil.
-
-<div class="tenor-gif-embed" data-postid="22152853" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/death-note-kira-light-anime-ryuk-gif-22152853">Death Note Kira GIF</a>from <a href="https://tenor.com/search/death+note-gifs">Death Note GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/pt-BR/view/death-note-kira-light-anime-ryuk-gif-22152853">
 ### - Learning :
 ## Java
 ## Russian
