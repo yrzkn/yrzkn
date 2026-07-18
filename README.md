@@ -2,7 +2,7 @@
 
 ### - I'm 16 years  Software engineering student & back-end ツ from Brazil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/yrzkn/Gif.Death-note-read-me/blob/main/tenor.gif">
 
 ### - Learning :
 ## Java
