@@ -2,7 +2,7 @@
 
 ### - I'm 16 years  Software engineering student & back-end ツ from Brazil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/pt-BR/view/death-note-kira-light-anime-ryuk-gif-22152853">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
 
 ### - Learning :
 ## Java
