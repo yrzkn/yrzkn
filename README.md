@@ -6,7 +6,7 @@
 
 ### - Learning :
 ## Java
-## Russian
+##Gym
 
 ### - Hobbies : 
 ## Addicted to learning more
