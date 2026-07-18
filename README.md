@@ -1,2 +1,3 @@
 ## Olá, me chamo Akira!
-Estou estudando HTML, CSS e JavaScript.
+Sou estudante de Engenharia de Software.
+Sei Progamar em Java Script,HTML,CSS,Python,PHP,C#.
