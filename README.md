@@ -52,7 +52,7 @@
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.instagram.com/yrzkn7">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" />
+  <img align="left" alt="Instagram" width="100" hight="100" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" />
 </br>
 </br>
 </br>
